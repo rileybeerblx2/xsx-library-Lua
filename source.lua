@@ -1,6 +1,7 @@
 --[[
-  UI lib made by bungie#0001
-  - This Lib Is Not Made By Me All Credits To bungie#0001 This Is Just A Recreation Using What He Has Made, If you request it to be taken down dm wuhaz on discord.
+  - UI lib made by bungie#0001
+
+  - This Lib Is Made By Bungie And Credit To Him
 ]]
 
 -- / Locals
